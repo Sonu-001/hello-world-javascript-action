@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: Sonu-001/hello-world-javascript-action@e2977fd95762ba94da5e7ecbb1a59396a51a0f20
+        uses: Sonu-001/hello-world-javascript-action@main
         with:
           who-to-greet: Sonu
 
